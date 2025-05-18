@@ -42,7 +42,7 @@ A beautifully designed and fully functional notes app built using **React Native
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-native-notes-app.git
+   git clone https://github.com/soumya007GitHub/React-Native-Notes.git
 
 2. Navigate to the project directory:
 ```bash

@@ -2,6 +2,14 @@
 
 A beautifully designed and fully functional notes app built using **React Native**. This app allows users to create, read, update, and delete notes with persistent storage using **AsyncStorage**. It features category-based filtering, responsive design, and a smooth user experience across all devices.
 
+## 📷 Screenshots
+<img src="https://github.com/user-attachments/assets/7a4d81ff-52a7-4f33-a878-50e742fde457" width="150">
+<img src="https://github.com/user-attachments/assets/367ecfda-271c-42a6-8059-717bd20335f3" width="150">
+<img src="https://github.com/user-attachments/assets/ecad05e2-38c6-438d-946c-535c26ea1aa4" width="150">
+<img src="https://github.com/user-attachments/assets/4a8f979f-7047-4611-9d7e-aca6f6f88cc6" width="150">
+<img src="https://github.com/user-attachments/assets/3b24a124-a3e5-4815-8873-4d184d1a3f0a" width="150">
+
+
 ## 🚀 Features
 
 - **Create, Read, Update, Delete (CRUD)** operations on notes
@@ -29,10 +37,6 @@ A beautifully designed and fully functional notes app built using **React Native
 - JavaScript / JSX
 - AsyncStorage
 - React Navigation
-
-## 📸 Screenshots
-
-_Add your screenshots here if available._
 
 ## 📦 Installation & Setup
 
